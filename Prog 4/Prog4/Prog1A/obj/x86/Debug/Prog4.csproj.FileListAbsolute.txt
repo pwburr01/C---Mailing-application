@@ -1,0 +1,9 @@
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog4\Prog1A\bin\Debug\Prog1.exe
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog4\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog4\Prog1A\obj\x86\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog4\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\Phillip\Documents\CIS 200-2\Prog 4\Prog4\Prog1A\obj\x86\Debug\Prog1.pdb
